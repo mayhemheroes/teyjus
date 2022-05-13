@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-teyjus
+target: tjcc
+
+cmds:
+  - cmd: /repo/source/tjcc.opt @@
+    filepath: /repo/source/test.mod
