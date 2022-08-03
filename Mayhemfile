@@ -3,3 +3,4 @@ target: tjcc-opt
 
 cmds:
   - cmd: /tjcc.opt @@
+    filepath: /test.mod
